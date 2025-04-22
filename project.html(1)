@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/98323d16bb.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <a href="">Buy Your Choice</a>
+
+        </div>
+        <div class="searcharea">
+            <div class="searchbox">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="search" placeholder="Search" >
+            </div>
+
+        </div>
+        <div class="section1">
+            <img src="Untitled (7).png" alt="">
+        </div>
+        <div class="section1button">
+            <h1>SOME </h1>
+            <h2> <span>UNIQUE</span> COLLECTION</h2>
+            <button class="btn">
+                Details
+            </button>
+
+        </div>
+
+        <div class="iconarea">
+            <a href=""><i class="fa-brands fa-facebook"></i></a>
+            <a href=""><i class="fa-brands fa-youtube"></i></a>
+            <a href=""><i class="fa-brands fa-instagram"></i></a>
+            <a href=""><i class="fa-brands fa-x-twitter"></i></a>
+        </div>
+    </div>
+
+    <section class="productsection">
+        <h3>Man Clothes Collection</h3>
+
+        <div class="product">
+
+            <div class="productbox">
+                <img src="04a9a798f8606962f121ddc499ce8895.jpg" alt="">
+                <p>SoftWeave cotton</p>
+                <a href="">$10</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="hiking-business-t-shirt-design-idea.jpg" alt="">
+                <p>SoftWeave cotton</p>
+                <a href="">$15</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="71gMCK2vbHL._AC_SL1500_.jpg" alt="">
+                <p>SoftWeave cotton</p>
+                <a href="">$12</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="e696954d6ecc279a97bb815d8508ad55.jpg" alt="">
+                <p>SoftWeave cotton</p>
+                <a href="">$20</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="casual-shirt.jpg" alt="">
+                <p>SoftWeave Cotton</p>
+                <a href="">$08</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="XktAj2MFlWmh7py1nZAjeP3wTV5n9ahsMfXctO9f.jpg" alt="">
+                <p>SoftWeave cotton</p>
+                <a href="">$07</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="51lziVxBdqL._AC_UF1000,1000_QL80_.jpg" alt="">
+                <p>SoftWeave Cotton</p>
+                <a href="">$11</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="about">
+        <div class="aboutbox">
+            <h1>About Company</h1>
+            <h4>We provide premium quality cotton products that ensure comfort, style, and trust <span>Buy Now</span></h4>
+            <p>We are dedicated to providing high-quality cotton products that combine comfort, style, and sustainability. Our goal is to deliver premium materials that you can trust, with a focus on customer satisfaction and affordable pricing. From everyday wear to exclusive collections – we bring softness to your life, naturally.
+
+            </p>
+
+        </div>
+
+        <div class="aboutbox">
+            <img src="images (7)-Picsart-AiImageEnhancer.jpg" alt="">
+        </div>
+    </section>
+
+    <section class="productsection">
+        <h3>Man Shoes & Watch Collection</h3>
+
+        <div class="product">
+
+            <div class="productbox">
+                <img src="bdd527fc60df0af7fb3b4380623dc99a.jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$100</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="images (2).jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$20</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="18689-NRRY71.jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$150</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="images (1).jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$70</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="men-shoes (1).jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$50</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="fashion-shoes.jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$55</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+
+            <div class="productbox">
+                <img src="brown-shoes-isolated-white-background-studio.jpg" alt="">
+                <p>Premimum Quality</p>
+                <a href="">$60</a>
+                <a href="" class="buybtn">Add To Cart</a>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section class="notification">
+        <h1>For Subscription</h1>
+        <div class="notificationsearch">
+            <input type="email" placeholder="Enter Your Email">
+            <a href="" class="notificationbtn">SEND</a>
+        </div>
+       
+    </section>
+    <hr>
+    <footer>
+        <p>© Powered By "BUY YOUR CHOICE"</p>
+    </footer>
+
+    
+    
+</body>
+</html>
